@@ -8,7 +8,7 @@ I enjoy working across the full product lifecycle: understanding requirements, b
 
 **Open to freelance projects and full-time opportunities.**
 
-[🌐 Portfolio](https://portfolio-master-nine-beta.vercel.app/) · [💻 GitHub](https://github.com/vipulmore12)
+[🌐 Portfolio](https://portfolio-vipul-more.vercel.app/) · [💻 GitHub](https://github.com/vipulmore12)
 
 ---
 
