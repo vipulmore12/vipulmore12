@@ -8,7 +8,7 @@ I enjoy working across the full product lifecycle: understanding requirements, b
 
 **Open to freelance projects and full-time opportunities.**
 
-[🌐 Portfolio](https://portfolio-vipul-more.vercel.app/)
+[🌐 Portfolio](https://portfolio-vipul-more.vercel.app/) · [Peerlist](https://peerlist.io/vipcee) · [Medium](https://medium.com/@vipulmore1998)
 
 ---
 
@@ -18,7 +18,7 @@ I enjoy working across the full product lifecycle: understanding requirements, b
 |---|---|
 | Frontend | React, Next.js, TypeScript, JavaScript, Redux, Redux Toolkit |
 | Backend & APIs | Node.js, NestJS, REST APIs, WebSockets, Socket.IO |
-| Databases | PostgreSQL, MySQL, SQL Server |
+| Databases | PostgreSQL, MySQL, SQL Server, Supabase |
 | UI & styling | HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Ant Design |
 | Payments & integrations | PayU, UPI, payment gateways, third-party APIs, barcode integrations |
 | Tools & delivery | Git, GitHub, Vite, Webpack, IIS |
