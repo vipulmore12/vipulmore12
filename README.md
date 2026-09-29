@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | React · Next.js · TypeScript · Node.js · NestJS
 
-I’m a software developer with **4+ years of experience** building and improving production web applications across fintech, e-commerce, healthcare, banking, IoT, and event management.
+I’m a software developer & Full-stack developer with **4+ years of experience** building and improving production web applications across fintech, e-commerce, healthcare, banking, IoT, and event management.
 
 I enjoy working across the full product lifecycle: understanding requirements, building responsive interfaces, developing APIs and business logic, integrating databases and payment services, and supporting production releases. I’m currently a **Software Developer at KIPL Global**, where I work on full-stack products and integrations.
 
