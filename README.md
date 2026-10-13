@@ -25,7 +25,7 @@ I enjoy working across the full product lifecycle: understanding requirements, b
 
 ## Experience
 
-**Software Developer · KIPL Global**  
+**Software Developer · KIPL Global Pvt. Ltd.**  
 `Dec 2022 – Present`
 
 - Build and maintain responsive React applications and product features.
