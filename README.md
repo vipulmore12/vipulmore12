@@ -26,7 +26,7 @@ I enjoy working across the full product lifecycle: understanding requirements, b
 ## Experience
 
 **Software Developer · KIPL Global Pvt. Ltd.**  
-`Dec 2022 – Present`
+`Dec 2022 – Aug 2026`
 
 - Build and maintain responsive React applications and product features.
 - Deliver fintech, payment, e-commerce, POS, event-booking, and admin workflows.
